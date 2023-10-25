@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\bin\Debug\2033210506_HaDucChung.exe.config
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\obj\Debug\2033210506_HaDucChung.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\obj\Debug\_2033210506_HaDucChung.frmBaiTap1.resources
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\obj\Debug\_2033210506_HaDucChung.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\obj\Debug\2033210506_HaDucChung.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\bin\Debug\2033210506_HaDucChung.exe
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\bin\Debug\2033210506_HaDucChung.pdb
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\obj\Debug\2033210506_HaDucChung.exe
+E:\LuuDuLieuSinhVien\chungchung\2033210506_HaDucChung\2033210506_HaDucChung\obj\Debug\2033210506_HaDucChung.pdb
